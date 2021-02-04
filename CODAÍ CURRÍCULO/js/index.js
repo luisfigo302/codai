@@ -1,5 +1,5 @@
-let nome = "Paulo Miranda";
-var cargo = "Arquiteto de Sistemas";
+let nome = "Luís Carlos S N Junior";
+var cargo = "Técnico em TI";
 var nomehtml = document.getElementById("modifica-nome");
 var cargohtml = document.getElementById("modifica-cargo");
 var texto1 = document.getElementById("texto-1");

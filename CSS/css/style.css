@@ -1,0 +1,23 @@
+h1{
+    color: #46eb34;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    text-align: justify;
+}
+
+.texto-azul{
+    color:blue;
+}
+.texto-vermelho{
+    color: red;
+}
+
+#linha3{
+    color: sienna;
+}

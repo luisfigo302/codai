@@ -1,0 +1,21 @@
+h1{
+    background-color: springgreen;
+}
+
+div{
+    width: 300px;
+    height: 200px;
+    background-color: violet;
+}
+
+#quadro2{
+    opacity: 0.6;
+}
+
+#quadro3{
+    opacity:0.4;
+}
+
+#quadro4{
+   opacity: 0.2;
+}

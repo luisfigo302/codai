@@ -1,0 +1,8 @@
+div{
+    border: 2px solid black;
+    border-radius: 50px;
+    margin: 50px;
+    /* TOP, RIGHT, BOTTOM E LEFT*/
+    padding: 50px 75px 100px 60px;
+    
+}

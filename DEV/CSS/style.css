@@ -1,0 +1,7 @@
+#quadro{
+    height: 300px;
+    width: 300px;
+    margin: 25px auto;
+    border: 2px solid blue;
+    border-radius: 10px;
+}

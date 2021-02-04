@@ -1,0 +1,89 @@
+body{
+    font-family: 'Poppins';
+    background-color: #6d6dd8;
+    padding: 10px;
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+}
+
+#dados{
+background-color: #fff;
+display: flex;
+flex-direction: row;
+margin: 150px 50px;
+box-shadow: -10px 5px 20px 0px gray;
+border-radius: 10px;
+}
+
+#perfil-card{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.img-perfil{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.card-padding{
+    padding: 50px;
+}
+
+#card-dados{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#contato{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    
+}
+
+.btn{
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 7px 20px;
+    font-weight: 700px;
+    text-decoration: none;
+   color: black;
+   user-select: none;
+}
+
+footer{
+    color: d;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+hr{
+    background-color: black;
+    height: 1px;
+    width: 50%;
+}
+
+.contatos{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: cornsilk;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 10%;
+    border: 1px solid;
+}
